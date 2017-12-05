@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Vacation Labs Task</h1>
+<h3>3xEarth 5xJupiter 9xPluto</h3>
+<p><u>Solution By: </u><br> 
+&copy; 2017 Xec Mohammad M</p>
+<p><u>Output 2:</u></p>
+
+<script>
+// Earth Jupiter Pluto with respective numbers :
+//@ 2017 Xec Mohammad M
+for (var x=1; x <= 100; x++){
+    if( x % 3 && x % 5 ) 
+    {document.write(x);} 
+    else {
+               if( x % 3 == 0 ) 
+               {
+                   document.write(x);    
+                   document.write(" Earth ");
+                  
+               }
+               
+               if( x % 5 == 0 ) 
+               {
+                  document.write(x);
+                  document.write(" Jupiter ");
+               }
+               
+               if(x % 9 == 0)
+               {
+                   document.write(x);
+                   document.write(" Pluto ");
+               }
+         }
+    document.write('<br>'); //line breaks to enhance output readability
+}
+</script>
+
+</body>
+</html> 

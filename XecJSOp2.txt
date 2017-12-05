@@ -1,0 +1,109 @@
+Vacation Labs Task
+
+3xEarth 5xJupiter 9xPluto
+
+Solution By: 
+© 2017 Xec Mohammad M
+
+Output 2:
+
+1
+2
+3 Earth 
+4
+5 Jupiter 
+6 Earth 
+7
+8
+9 Earth 9 Pluto 
+10 Jupiter 
+11
+12 Earth 
+13
+14
+15 Earth 15 Jupiter 
+16
+17
+18 Earth 18 Pluto 
+19
+20 Jupiter 
+21 Earth 
+22
+23
+24 Earth 
+25 Jupiter 
+26
+27 Earth 27 Pluto 
+28
+29
+30 Earth 30 Jupiter 
+31
+32
+33 Earth 
+34
+35 Jupiter 
+36 Earth 36 Pluto 
+37
+38
+39 Earth 
+40 Jupiter 
+41
+42 Earth 
+43
+44
+45 Earth 45 Jupiter 45 Pluto 
+46
+47
+48 Earth 
+49
+50 Jupiter 
+51 Earth 
+52
+53
+54 Earth 54 Pluto 
+55 Jupiter 
+56
+57 Earth 
+58
+59
+60 Earth 60 Jupiter 
+61
+62
+63 Earth 63 Pluto 
+64
+65 Jupiter 
+66 Earth 
+67
+68
+69 Earth 
+70 Jupiter 
+71
+72 Earth 72 Pluto 
+73
+74
+75 Earth 75 Jupiter 
+76
+77
+78 Earth 
+79
+80 Jupiter 
+81 Earth 81 Pluto 
+82
+83
+84 Earth 
+85 Jupiter 
+86
+87 Earth 
+88
+89
+90 Earth 90 Jupiter 90 Pluto 
+91
+92
+93 Earth 
+94
+95 Jupiter 
+96 Earth 
+97
+98
+99 Earth 99 Pluto 
+100 Jupiter 
